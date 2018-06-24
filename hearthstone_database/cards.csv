@@ -1,0 +1,101 @@
+attack,card_class,cost,health,name,type
+8,,20,8,Molten Giant,Minion
+8,,12,8,Arcane Giant,Minion
+8,,12,8,Clockwork Giant,Minion
+8,,12,8,Mountain Giant,Minion
+8, Shaman,11,8,Snowfury Giant,Minion
+0, Warlock,10,30,Bloodreaver Gul'dan,Playable Hero
+0, Paladin,10,0,Anyfin Can Happen,Ability
+0, Warlock,10,0,DOOM!,Ability
+0, Priest,10,0,Mind Control,Ability
+0, Mage,10,0,Pyroblast,Ability
+0, Druid,10,0,Ultimate Infestation,Ability
+6,,10,6,C'Thun,Minion
+12,,10,12,Deathwing,Minion
+12,,10,12,"Deathwing, Dragonlord",Minion
+8, Hunter,10,8,Emeriss,Minion
+10,,10,10,Faceless Behemoth,Minion
+8,,10,8,Frost Giant,Minion
+7, Druid,10,7,Kun the Forgotten King,Minion
+5,,10,7,"N'Zoth, the Corruptor",Minion
+8,,10,8,Sea Giant,Minion
+12, Druid,10,12,Tyrantus,Minion
+7,,10,14,Ultrasaur,Minion
+7, Warrior,10,7,Varian Wrynn,Minion
+7,,10,5,"Yogg-Saron, Hope's End",Minion
+10,,10,10,"Y'Shaarj, Rage Unbound",Minion
+0, Mage,9,30,Frost Lich Jaina,Playable Hero
+0, Paladin,9,30,Uther of the Ebon Blade,Playable Hero
+0, Rogue,9,30,Valeera the Hollow,Playable Hero
+0, Hunter,9,0,Call of the Wild,Ability
+0, Druid,9,0,Tree of Life,Ability
+8,,9,8,Alexstrasza,Minion
+8, Rogue,9,4,Anub'arak,Minion
+7,,9,8,Arch-Thief Rafaam,Minion
+5, Druid,9,5,Aviana,Minion
+7,,9,8,Baku the Mooneater,Minion
+4, Rogue,9,4,Blade of C'Thun,Minion
+9,,9,9,Blood of The Ancient One,Minion
+5, Druid,9,8,Cenarius,Minion
+3, Mage,9,3,Dragoncaller Alanna,Minion
+2,,9,4,Dragonhatcher,Minion
+6,,9,10,Giant Mastodon,Minion
+3, Druid,9,7,Hadronox,Minion
+10,,9,10,Icehowl,Minion
+8, Hunter,9,8,King Krush,Minion
+9, Warrior,9,7,King Mosh,Minion
+7, Warlock,9,9,Krul the Unshackled,Minion
+3, Warlock,9,15,Lord Jaraxxus,Minion
+9,,9,7,Majordomo Executus,Minion
+9, Warlock,9,7,Mal'Ganis,Minion
+4,,9,12,Malygos,Minion
+5,,9,5,Master Oakheart,Minion
+5,,9,4,Mayor Noggenfogger,Minion
+9,,9,7,Mekgineer Thermaplugg,Minion
+8,,9,8,Nefarian,Minion
+9,,9,7,North Sea Kraken,Minion
+8,,9,8,Nozdormu,Minion
+4, Priest,9,8,Obsidian Statue,Minion
+8,,9,8,Onyxia,Minion
+5,,9,5,Ozruk,Minion
+6, Shaman,9,6,Shudderwock,Minion
+4,,9,12,Sleepy Dragon,Minion
+5,,9,9,Soggoth the Slitherer,Minion
+3, Warlock,9,9,Voidlord,Minion
+7, Druid,9,8,Volcanic Lumberer,Minion
+4,,9,12,Ysera,Minion
+0, Shaman,8,30,Hagatha the Witch,Playable Hero
+0, Warrior,8,30,Scourgelord Garrosh,Playable Hero
+0, Priest,8,30,Shadowreaper Anduin,Playable Hero
+3, Paladin,8,4,Silver Sword,Weapon
+3, Shaman,8,3,The Runespear,Weapon
+3, Warrior,8,3,Woecleaver,Weapon
+0, Paladin,8,0,Dinosize,Ability
+0, Priest,8,0,Free From Amber,Ability
+0, Mage,8,0,Glacial Mysteries,Ability
+0, Paladin,8,0,Lay on Hands,Ability
+0, Warlock,8,0,Twisting Nether,Ability
+3, Shaman,8,5,Al'Akir the Windlord,Minion
+8, Mage,8,6,Anomalus,Minion
+5,,8,5,Bonemare,Minion
+7,,8,7,Cauldron Elemental,Minion
+7,,8,7,Charged Devilsaur,Minion
+6,,8,8,Chromaggus,Minion
+8,,8,8,Deranged Doctor,Minion
+7,,8,9,Doomcaller,Minion
+6,,8,10,Eldritch Horror,Minion
+6,,8,9,Foe Reaper 4000,Minion
+7,,8,7,Force-Tank MAX,Minion
+8,,8,8,Fossilized Devilsaur,Minion
+4, Warrior,8,8,Geosculptor Yip,Minion
+8, Hunter,8,8,Giant Sand Worm,Minion
+3,,8,8,Gilnean Royal Guard,Minion
+4,,8,7,Grand Archivist,Minion
+3, Druid,8,5,Grizzled Guardian,Minion
+4, Warrior,8,9,Grommash Hellscream,Minion
+7,,8,7,Gruul,Minion
+8, Druid,8,8,Ironbark Protector,Minion
+7, Shaman,8,7,"Kalimos, Primal Lord",Minion
+6, Hunter,8,6,Kathrena Winterwisp,Minion
+6,,8,8,Kel'Thuzad,Minion
+5,,8,5,King Togwaggle,Minion
