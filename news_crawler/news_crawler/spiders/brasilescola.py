@@ -35,8 +35,12 @@ class BrasilescolaSpider(scrapy.Spider):
         news_div = response.xpath("//div[@class='conteudo-pagina']")
 
         # Parse page items content
-        date_string = news_div.xpath("//span[@class='data']/text()").extract_first().strip()
-        date = re.findall(r'(\d{2}/\d{2}/\d{4})', date_string)[0]
+        date_string = news_div.xpath("//span[@class='data']/text()").extract_first()
+
+        if date_string is None:
+            date = ''
+        else:
+            date = re.findall(r'(\d{2}/\d{2}/\d{4})', date_string.strip())[0]
 
         title = news_div.xpath("//h1/text()").extract_first().strip()
         url = response.url
