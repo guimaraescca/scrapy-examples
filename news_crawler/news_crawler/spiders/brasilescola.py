@@ -1,4 +1,3 @@
-import re
 import scrapy
 from news_crawler.items import NewsItem
 
@@ -35,13 +34,7 @@ class BrasilescolaSpider(scrapy.Spider):
         news_div = response.xpath("//div[@class='conteudo-pagina']")
 
         # Parse page items content
-        date_string = news_div.xpath("//span[@class='data']/text()").extract_first()
-
-        if date_string is None:
-            date = ''
-        else:
-            date = re.findall(r'(\d{2}/\d{2}/\d{4})', date_string.strip())[0]
-
+        date = news_div.xpath("//span[@class='data']/text()").extract_first()
         title = news_div.xpath("//h1/text()").extract_first().strip()
         url = response.url
         text = ' '.join(string.strip() for string in news_div.xpath("//div[@class='conteudo-materia']//p//text()").getall())
